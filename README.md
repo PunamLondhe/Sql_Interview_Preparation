@@ -43,9 +43,6 @@ See `01_create_tables.sql` and `02_insert_data.sql` for the full setup script.
 | `03_select_where.sql`       | SELECT, FROM, WHERE, DISTINCT, ORDER BY, TOP             |
 | `04_group_by_having.sql`    | GROUP BY, HAVING, aggregate functions (SUM, COUNT, AVG)  |
 | `05_like_wildcards.sql`     | LIKE, wildcard pattern matching (%, _)                   |
-| `solutions/answers.sql`     | Combined answer key for all questions above              |
-
-More topics (JOINs, subqueries, window functions, CTEs) will be added as I progress.
 
 ## Sample Query
 
