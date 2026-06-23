@@ -25,4 +25,6 @@ VALUES
     (103, 'HR',       'Suresh Kumar', 'Delhi'),
     (104, 'Finance',  'Priya Singh',  'Bangalore');
 
+SELECT * FROM Employees;
 SELECT * FROM Departments;
+
